@@ -6,7 +6,7 @@ Built for university courses, workshops, and self-study.
 
 ---
 
-## Architecture
+<!-- ## Architecture
 
 ```
                         +--------------------+
@@ -39,7 +39,7 @@ The **Frontend** proxies requests to the **Backend**, which communicates with th
 
 For institutional deployments, the **Virtual Machines** toolkit spawns isolated GNS3 server instances for each student from a single base image.
 
----
+--- -->
 
 ## Repositories
 
@@ -67,7 +67,7 @@ For institutional deployments, the **Virtual Machines** toolkit spawns isolated 
 
 There are two deployment paths depending on your environment.
 
-### Path A: Personal Device
+### Mode A: Personal Device
 
 Use this if you are running GNS3 on your own machine or a single remote server.
 
@@ -151,7 +151,7 @@ Each scenario folder contains a README with step-by-step instructions for buildi
 
 ---
 
-### Path B: Institutional Server (Multi-Student)
+### Mode B: Institutional Server (Multi-Student)
 
 Use this if you are an institution providing isolated GNS3 environments to multiple students from a single server.
 
