@@ -57,7 +57,7 @@ For institutional deployments, the **Virtual Machines** toolkit spawns isolated 
 
 - **Node.js 18+** (frontend)
 - **Python 3.10+** and **uv** or **pip** (backend)
-- **GNS3 Server** with API access enabled (local install or VM)
+- **GNS3 Server (v2.2.54)** with API access enabled (local install or VM)
 - **Docker** (for building and loading container templates into GNS3)
 - **QEMU** (only if using the VM spawner for institutional deployments)
 
