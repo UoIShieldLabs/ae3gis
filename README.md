@@ -2,8 +2,6 @@
 
 A web-based platform for hands-on cybersecurity education in Industrial Control Systems (ICS) and IT/OT network environments. AE3GIS integrates with GNS3 to let instructors build network topologies, design lab scenarios, and deploy them to students — who then execute attacks, observe defenses, and submit their work for review.
 
-Built for university courses, workshops, and self-study.
-
 ---
 
 <!-- ## Architecture
@@ -177,7 +175,7 @@ Follow steps 3 and 4 from Path A. Point each frontend instance to the appropriat
 
 ---
 
-## Available Scenarios
+## Sample Educational Scenarios
 
 | Scenario | Attack Type | Difficulty |
 |----------|-------------|------------|
